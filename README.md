@@ -1,4 +1,4 @@
-# RAGpipeline_LLM
+# RAG pipeline
 
 LLMs have great potential in translation, essay writing, and general question-answering. But when it comes to domain-specific question-answering, they suffer from hallucinations. Besides, in a domain-specific QA app, only a few documents contain relevant context per query. So, we need a unified system that streamlines document extraction to answer generation and all the processes between them. This process is called Retrieval Augmented Generation.
 
